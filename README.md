@@ -14,6 +14,6 @@ Em relação às ferramentas, possuo domínio no pacote Office e conhecimentos b
 ## Projetos:
 
 
-* ** Modelo de Machine Learning que prevê a qualidade de vinhos feito um especialista:https://bityli.com/floap
+* **Modelo de Machine Learning que prevê a qualidade de vinhos feito um especialista:** https://bityli.com/floap
 ---
 
