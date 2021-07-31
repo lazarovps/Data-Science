@@ -8,7 +8,6 @@ Em relação às ferramentas, possuo domínio no pacote Office e conhecimentos b
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lazaro-vinicius/)
-* [Medium](https://lazaro-vinicius.medium.com/)
 
 
 ## Projetos:
