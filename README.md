@@ -16,5 +16,6 @@ Em relação às ferramentas, possuo domínio no pacote Office e conhecimentos b
 * **Modelo de Machine Learning que prevê a qualidade de vinhos feito um especialista:** https://github.com/lazarovps/Data-Science/blob/main/Red_wine_quality_(classification).ipynb
 * **Análise comparativa entre recuperados e mortos pelo novo coronavírus em Pernambuco** https://github.com/lazarovps/Data-Science/blob/main/covid_PE_microdados.ipynb
 * **Previsão de cancelamento de serviços (Churn) de clientes de banco** https://github.com/lazarovps/Data-Science/blob/main/Santander_Customer_Satisfaction.ipynb
+* **Previsão dos valores de aluguéis de apartamentos no Brasil** https://github.com/lazarovps/Data-Science/blob/main/brazilian_houses_to_rent_(aluguel).ipynb
 ---
 
